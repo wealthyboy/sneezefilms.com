@@ -1,0 +1,95 @@
+.content-area .entry-content {
+    & > *.alignfull {
+        position: relative;
+        left: calc((1110px - 100vw) / 2);
+        width: 100vw;
+        max-width: 100vw;
+        clear: both;
+
+        @include media-breakpoint-down(lg) {
+            left: calc((910px - 100vw) / 2);
+        }
+
+        @include media-breakpoint-down(md) {
+            left: calc((486px - 100vw) / 2);
+        }
+
+        @include media-breakpoint-down(xs) {
+            left: calc((285px - 100vw) / 2);
+        }
+    }
+}
+
+.content-area .entry-content > *.alignwide {
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+}
+
+@media only screen and (min-width: 768px) {
+    .content-area .entry-content > *.alignwide {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+.content-area .entry-content > *.alignleft {
+    /*rtl:ignore*/
+    float: left;
+    max-width: calc(5 * (100vw / 12));
+    margin-top: 0;
+    margin-left: 0;
+    /*rtl:ignore*/
+    margin-right: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .content-area .entry-content > *.alignleft {
+        max-width: calc(4 * (100vw / 12));
+        /*rtl:ignore*/
+        margin-right: calc(2 * 1rem);
+    }
+}
+
+.content-area .entry-content > *.alignright {
+    /*rtl:ignore*/
+    float: right;
+    max-width: calc(5 * (100vw / 12));
+    margin-top: 0;
+    margin-right: 0;
+    /*rtl:ignore*/
+    margin-left: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .content-area .entry-content > *.alignright {
+        max-width: calc(4 * (100vw / 12));
+        margin-right: 0;
+        /*rtl:ignore*/
+        margin-left: calc(2 * 1rem);
+    }
+}
+
+.content-area .entry-content > *.aligncenter {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (min-width: 768px) {
+    .content-area .entry-content > *.aligncenter {
+        max-width: calc(8 * (100vw / 12) - 28px);
+    }
+}
+
+@media only screen and (min-width: 1168px) {
+    .content-area .entry-content > *.aligncenter {
+        max-width: calc(6 * (100vw / 12) - 28px);
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .content-area .entry-content > *.aligncenter {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}

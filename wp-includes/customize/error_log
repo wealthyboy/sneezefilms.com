@@ -1,0 +1,6 @@
+[30-Jul-2020 19:44:00 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/sneeze7/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[30-Jul-2020 19:44:19 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/sneeze7/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[30-Jul-2020 19:44:28 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/sneeze7/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 08:43:19 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/sneeze7/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 14:57:40 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/sneeze7/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[01-Aug-2020 09:57:10 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/sneeze7/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17

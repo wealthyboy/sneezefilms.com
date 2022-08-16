@@ -1,0 +1,49 @@
+body.onepage-scroll {
+    .onepage {
+        overflow: hidden;
+    }
+
+    .onepage-pagination {
+        left: auto;
+        right: 100px;
+
+        li {
+            margin: 10px 0;
+
+            a {
+                width: 24px;
+                height: 24px;
+                border: 2px solid transparent;
+                @include border-radius(12px);
+                position: relative;
+
+                &:before {
+                    display: none;
+                }
+
+                &:after {
+                    width: 12px;
+                    height: 12px;
+                    @include border-radius(6px);
+                    background-color: rgba(255, 255, 255, .4);
+                    position: absolute;
+                    top: 4px;
+                    left: 4px;
+                    @include transit();
+                }
+
+                &.active {
+                    border-color: #fff;
+
+                    &:after {
+                        transform: scale(0);
+                    }
+                }
+            }
+        }
+
+        @include media-breakpoint-down(md) {
+            right: 30px;
+        }
+    }
+}

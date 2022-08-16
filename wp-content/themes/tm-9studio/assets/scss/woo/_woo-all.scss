@@ -1,0 +1,68 @@
+.woocommerce {
+    table.shop_table {
+        border: none;
+        border-collapse: collapse;
+        @include border-radius(0);
+
+        thead {
+            tr {
+                th, td {
+                    text-align: left;
+                    background-color: rgba(0, 0, 0, 0.03);
+                    border: none;
+                }
+            }
+        }
+
+        tbody {
+            tr {
+                th, td {
+                    text-align: left;
+                    border: none;
+                    padding: 10px;
+
+                    img {
+                        width: 80px;
+                        height: auto;
+                    }
+                }
+            }
+        }
+
+        tfoot {
+            tr {
+                th, td {
+                    text-align: left;
+                    background-color: rgba(0, 0, 0, 0.03);
+                    border: none;
+                }
+            }
+        }
+    }
+
+    a.button, a.button.alt, button.button.alt {
+        @extend .btn;
+        @include border-radius(0);
+        background-color: $color__gray-dark;
+        display: block;
+
+        &:hover {
+            color: #fff;
+            background-color: $color__primary;
+            border-color: $color__primary;
+        }
+    }
+
+    .col2-set {
+        .col-1, .col-2 {
+            max-width: none;
+        }
+
+        @include media-breakpoint-down(md) {
+            .col-1, .col-2 {
+                padding-left: 0;
+                padding-right: 0;
+            }
+        }
+    }
+}

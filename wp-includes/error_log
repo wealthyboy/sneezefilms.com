@@ -1,0 +1,11 @@
+[30-Jul-2020 17:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/sneeze7/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sneeze7/public_html/wp-includes/feed-atom-comments.php on line 8
+[30-Jul-2020 21:08:24 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/sneeze7/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[30-Jul-2020 21:08:28 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/sneeze7/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[31-Jul-2020 14:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/sneeze7/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sneeze7/public_html/wp-includes/feed-atom-comments.php on line 8
+[01-Aug-2020 14:35:38 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/sneeze7/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23

@@ -1,0 +1,91 @@
+body.woocommerce-cart {
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+        font-weight: 500;
+        font-family: $font__third;
+    }
+
+    table.shop_table {
+        tr {
+            td {
+                a.remove {
+                    display: inline-block;
+                    width: 16px;
+                    height: 16px;
+                    line-height: 16px;
+                    text-align: center;
+                    cursor: pointer;
+                    font-size: 0;
+                    background-color: transparent;
+
+                    &:before {
+                        content: '\f2d7';
+                        font-size: 16px;
+                        color: $color__gray;
+                        font-family: Ionicons;
+                        speak: none;
+                        font-style: normal;
+                        font-weight: normal;
+                        font-variant: normal;
+                        text-transform: none;
+                        -webkit-font-smoothing: antialiased;
+                        -moz-osx-font-smoothing: grayscale;
+                    }
+
+                    &:hover {
+                        &:before {
+                            color: #D6372C;
+                        }
+                    }
+                }
+
+                input, button {
+                    height: 40px !important;
+                    line-height: 40px !important;
+                    padding: 0 20px !important;
+                    outline: none !important;
+                    margin: 0;
+                    @include border-radius(0);
+
+                    &[type="number"] {
+                        width: 60px;
+                        padding: 0 10px !important;
+                    }
+
+                    &#coupon_code {
+                        min-width: 160px;
+                        border: none;
+                    }
+
+                    &.button {
+                        outline: none;
+
+                        &:disabled[disabled] {
+                            padding: 0 20px;
+                        }
+                    }
+                }
+
+                &.product-name {
+                    font-family: $font__third;
+                }
+            }
+        }
+    }
+
+    .cart-collaterals .cart_totals {
+        table tr {
+            th, td {
+                border: none;
+            }
+        }
+
+        .wc-proceed-to-checkout {
+            margin-bottom: 0;
+            padding-bottom: 0;
+
+            a {
+                margin-bottom: 0;
+            }
+        }
+    }
+}

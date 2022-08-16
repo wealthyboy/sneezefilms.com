@@ -1,0 +1,31 @@
+.vc_custom_heading {
+    &.bottom-line {
+        &:after {
+            content: '';
+            display: block;
+            width: 30px;
+            height: 1px;
+            background-color: $color__primary;
+            margin-top: 5px;
+        }
+    }
+
+    &.typed {
+        mark {
+            font-weight: inherit;
+            color: $color__primary;
+            background-color: transparent;
+        }
+
+        .typed-cursor {
+            color: $color__primary;
+            opacity: 1;
+            font-weight: 100;
+            -webkit-animation: blink 0.7s infinite;
+            -moz-animation: blink 0.7s infinite;
+            -ms-animation: blink 0.7s infinite;
+            -o-animation: blink 0.7s infinite;
+            animation: blink 0.7s infinite;
+        }
+    }
+}

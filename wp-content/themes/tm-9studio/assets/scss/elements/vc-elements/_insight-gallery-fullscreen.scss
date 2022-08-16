@@ -1,0 +1,107 @@
+.insight-gallery-fullscreen {
+    position: relative;
+
+    .insight-gallery-fullscreen-item {
+        display: block;
+        position: absolute;
+
+        &.insight-gallery-fullscreen-item-1 {
+            width: 50%;
+            height: 100%;
+            top: 0;
+            left: 0;
+        }
+
+        &.insight-gallery-fullscreen-item-2 {
+            width: 25%;
+            height: 50%;
+            top: 0;
+            left: 50%;
+        }
+
+        &.insight-gallery-fullscreen-item-3 {
+            width: 25%;
+            height: 50%;
+            top: 0;
+            left: 75%;
+        }
+
+        &.insight-gallery-fullscreen-item-4 {
+            width: 50%;
+            height: 50%;
+            top: 50%;
+            left: 50%;
+        }
+
+        .insight-gallery-fullscreen-item-inner {
+            display: block;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            opacity: .5;
+            @include transit();
+
+            a {
+                display: block;
+                width: 100%;
+                height: 100%;
+                position: relative;
+
+                img {
+                    display: none;
+                }
+
+                &:before {
+                    display: block;
+                    content: '\f14d';
+                    font-family: FontAwesome;
+                    font-size: 20px;
+                    color: #fff;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 60px;
+                    text-align: center;
+                    position: absolute;
+                    top: 60%;
+                    left: 50%;
+                    opacity: 0;
+                    transform: translate(-50%, -50%);
+                    @include transit();
+                }
+            }
+        }
+
+        &:hover {
+            .insight-gallery-fullscreen-item-inner {
+                opacity: 1;
+
+                a {
+                    &:before {
+                        top: 50%;
+                        opacity: 1;
+                    }
+                }
+            }
+        }
+    }
+
+    @include media-breakpoint-down(md) {
+        .insight-gallery-fullscreen-item {
+            position: relative;
+            width: 100% !important;
+            height: auto !important;
+            top: auto !important;
+            left: auto !important;
+
+            .insight-gallery-fullscreen-item-inner {
+                a {
+                    img {
+                        display: inline-block;
+                        width: 100%;
+                        height: auto;
+                    }
+                }
+            }
+        }
+    }
+}

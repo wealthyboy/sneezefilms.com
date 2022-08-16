@@ -1,0 +1,80 @@
+.insight-image-carousel {
+    margin-bottom: 0;
+
+    .insight-image-carousel-item {
+        outline: none;
+        @include transit();
+
+        &.slick-slide {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+    .slick-list {
+        z-index: 98;
+    }
+
+    .slick-prev, .slick-next {
+        width: 48px;
+        height: 48px;
+        top: 50%;
+        margin-top: -24px;
+        background: none;
+        border-radius: 0;
+        z-index: 99;
+        color: #fff;
+        background-color: rgba(0, 0, 0, .2);
+        @include transit();
+
+        &:hover {
+            background-color: rgba(0, 0, 0, .5);
+        }
+    }
+
+    .slick-prev:before, .slick-next:before {
+        font-size: 20px;
+        font-weight: 400;
+        font-family: Ionicons;
+        opacity: 1;
+    }
+
+    .slick-prev:hover, .slick-next:hover {
+        opacity: 1;
+    }
+
+    .slick-prev {
+        left: 30px;
+
+        &:before {
+            content: '\f3d2';
+        }
+    }
+
+    .slick-next {
+        right: 30px;
+
+        &:before {
+            content: '\f3d3';
+        }
+    }
+
+    .slick-dots {
+        margin-top: 0;
+        margin-bottom: 0;
+        bottom: -30px;
+
+        li {
+            margin: 0;
+
+            button {
+                &:before {
+                    font-size: 8px;
+                }
+            }
+        }
+    }
+}

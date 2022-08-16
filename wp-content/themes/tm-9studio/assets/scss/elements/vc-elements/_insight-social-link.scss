@@ -1,0 +1,54 @@
+.insight-social-link {
+    a {
+        color: #ABABAB;
+        margin-right: 30px;
+
+        i {
+            margin-right: 10px;
+        }
+
+        span {
+            font-size: 15px;
+            font-family: $font__second;
+        }
+    }
+
+    &.style02 {
+        text-align: center;
+
+        a {
+            margin: 0 10px;
+
+            i {
+                display: none;
+            }
+
+            span {
+                font-size: 14px;
+                font-weight: 700;
+                font-family: $font__second;
+                text-transform: uppercase;
+                color: #fff;
+                @include transit();
+            }
+
+            &:hover {
+                span {
+                    color: $color__primary;
+                }
+            }
+
+            &:after {
+                content: '|';
+                margin-left: 20px;
+                color: #fff;
+            }
+
+            &:last-child {
+                &:after {
+                    display: none;
+                }
+            }
+        }
+    }
+}

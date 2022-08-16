@@ -1,0 +1,6201 @@
+# Copyright (C) 2019 tm-9studio
+# This file is distributed under the same license as the tm-9studio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tm-9studio\n"
+"Report-Msgid-Bugs-To: http://thememove.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Language-Team: ThemeMove <thememovedotcom@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/tm-9studio/404.php:14
+msgid "Opps! Page not found!"
+msgstr ""
+
+#: src/tm-9studio/404.php:17
+msgid "Please go back to"
+msgstr ""
+
+#: src/tm-9studio/404.php:17
+msgid "Homepage"
+msgstr ""
+
+#: src/tm-9studio/404.php:20
+msgid "Contact us"
+msgstr ""
+
+#: src/tm-9studio/404.php:26
+msgid "Follow me"
+msgstr ""
+
+#: src/tm-9studio/comments.php:31
+msgctxt "comments title"
+msgid "Comment (1)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/comments.php:40, src/tm-9studio/comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: src/tm-9studio/comments.php:44, src/tm-9studio/comments.php:67
+msgid "Older Comments"
+msgstr ""
+
+#: src/tm-9studio/comments.php:46, src/tm-9studio/comments.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: src/tm-9studio/comments.php:82
+msgid "Comments are closed."
+msgstr ""
+
+#: src/tm-9studio/comments.php:91
+msgid "Name *"
+msgstr ""
+
+#: src/tm-9studio/comments.php:92
+msgid "Email *"
+msgstr ""
+
+#: src/tm-9studio/comments.php:93
+msgid "Website"
+msgstr ""
+
+#: src/tm-9studio/comments.php:96
+msgid "Submit"
+msgstr ""
+
+#: src/tm-9studio/comments.php:97
+msgid "Leave your thought"
+msgstr ""
+
+#: src/tm-9studio/comments.php:101
+msgid "Comment *"
+msgstr ""
+
+#: src/tm-9studio/components/content-archive.php:33, src/tm-9studio/components/content-search.php:32, src/tm-9studio/components/content.php:33
+msgid "/ Read more"
+msgstr ""
+
+#: src/tm-9studio/components/content-blogger.php:26, src/tm-9studio/components/content-blogger.php:59, src/tm-9studio/components/content-grid.php:26, src/tm-9studio/components/content-grid.php:59, src/tm-9studio/components/content-list-v1.php:22, src/tm-9studio/components/content-list-v1.php:48, src/tm-9studio/components/content-list-v2.php:22, src/tm-9studio/components/content-list-v2.php:52, src/tm-9studio/components/content-list-v3.php:22, src/tm-9studio/components/content-list-v3.php:47, src/tm-9studio/components/content-single.php:36, src/tm-9studio/components/content-single.php:60, src/tm-9studio/vc-extend/vc-templates/insight_post_slider.php:47, src/tm-9studio/vc-extend/vc-templates/insight_post_slider.php:72
+msgid " "
+msgstr ""
+
+#: src/tm-9studio/components/content-list-v3.php:61
+msgid "Read more"
+msgstr ""
+
+#: src/tm-9studio/components/content-list-v3.php:66, src/tm-9studio/framework/class-templates.php:90
+msgid "Share on Facebook"
+msgstr ""
+
+#: src/tm-9studio/components/content-list-v3.php:73, src/tm-9studio/framework/class-templates.php:97
+msgid "Share on Twitter"
+msgstr ""
+
+#: src/tm-9studio/components/content-list-v3.php:79, src/tm-9studio/framework/class-templates.php:103
+msgid "Share on Google Plus"
+msgstr ""
+
+#: src/tm-9studio/components/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: src/tm-9studio/components/content-none.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: src/tm-9studio/components/content-page.php:17, src/tm-9studio/components/content-single.php:78
+msgid "Pages:"
+msgstr ""
+
+#: src/tm-9studio/components/content-single.php:73
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: src/tm-9studio/components/footer.php:40, src/tm-9studio/customizer/customizer.php:85
+msgid "Google Map"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:25
+msgid "Site"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:30, src/tm-9studio/framework/class-metabox.php:114
+msgid "Header"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:35
+msgid "Navigation"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:40, src/tm-9studio/framework/class-metabox.php:169, src/tm-9studio/framework/class-metabox.php:467, src/tm-9studio/framework/class-metabox.php:667
+msgid "Title & Breadcrumbs"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:45, src/tm-9studio/framework/class-metabox.php:233, src/tm-9studio/framework/class-metabox.php:517, src/tm-9studio/framework/class-metabox.php:717
+msgid "Newsletter"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:50, src/tm-9studio/framework/class-metabox.php:267, src/tm-9studio/framework/class-metabox.php:551, src/tm-9studio/framework/class-metabox.php:751
+msgid "Footer"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:55, src/tm-9studio/framework/class-init.php:83, src/tm-9studio/framework/class-metabox.php:301, src/tm-9studio/framework/class-metabox.php:585, src/tm-9studio/framework/class-metabox.php:785
+msgid "Copyright"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:60, src/tm-9studio/customizer/section-site.php:55, src/tm-9studio/vc-extend/vc-maps/insight_post_slider.php:25
+msgid "Post"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:65
+msgid "Logo"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:70
+msgid "Shop"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:75, src/tm-9studio/framework/class-metabox.php:414, src/tm-9studio/vc-extend/vc-maps/insight_member_info.php:36, src/tm-9studio/vc-extend/vc-maps/insight_member.php:34, src/tm-9studio/vc-extend/vc-maps/insight_social_link.php:15
+msgid "Socials"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:80
+msgid "404 Page"
+msgstr ""
+
+#: src/tm-9studio/customizer/customizer.php:90
+msgid "Additional JS"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-404.php:8
+msgid "404 Background Image"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-404.php:9
+msgid "Select a background image for 404 page."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-404.php:24
+msgid "404 Image"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-404.php:25
+msgid "Select an image for 404 page."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-404.php:34
+msgid "Contact URL"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-404.php:35
+msgid "Enter the URL for contact button in 404 page."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-404.php:38
+msgid "/contact-us"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:13, src/tm-9studio/customizer/section-footer.php:13, src/tm-9studio/customizer/section-header.php:38, src/tm-9studio/customizer/section-shop.php:16, src/tm-9studio/customizer/section-shop.php:72, src/tm-9studio/customizer/section-site.php:31, src/tm-9studio/framework/class-metabox.php:74, src/tm-9studio/framework/class-metabox.php:80, src/tm-9studio/framework/class-metabox.php:445, src/tm-9studio/framework/class-metabox.php:645
+msgid "Layout"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:19, src/tm-9studio/customizer/section-footer.php:19, src/tm-9studio/customizer/section-header.php:44, src/tm-9studio/customizer/section-newsletter.php:19
+msgid "Visibility"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:20
+msgid "Enable to show the copyright section."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:29, src/tm-9studio/customizer/section-footer.php:29, src/tm-9studio/customizer/section-newsletter.php:29, src/tm-9studio/customizer/section-title.php:36, src/tm-9studio/framework/class-metabox.php:344, src/tm-9studio/framework/class-metabox.php:350, src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:15, src/tm-9studio/vc-extend/vc-maps/insight_button.php:15, src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:15, src/tm-9studio/vc-extend/vc-maps/insight_hire_box.php:15, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:16, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:26, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:16, src/tm-9studio/vc-extend/vc-maps/insight_project_title.php:16, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:23, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:15, src/tm-9studio/vc-extend/vc-maps/insight_video.php:14, src/tm-9studio/vc-extend/vc-params/image-radio.php:12
+msgid "Style"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:42, src/tm-9studio/framework/tgm-plugin-activation.php:2636, src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:15, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:15
+msgid "Type"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:60, src/tm-9studio/customizer/section-footer.php:90, src/tm-9studio/customizer/section-header.php:85, src/tm-9studio/customizer/section-navigation.php:88
+msgid "Spacing"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:66, src/tm-9studio/customizer/section-footer.php:96, src/tm-9studio/customizer/section-header.php:91, src/tm-9studio/customizer/section-navigation.php:94, src/tm-9studio/customizer/section-title.php:64
+msgid "Padding top"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:89, src/tm-9studio/customizer/section-footer.php:118, src/tm-9studio/customizer/section-header.php:113, src/tm-9studio/customizer/section-navigation.php:116, src/tm-9studio/customizer/section-title.php:86
+msgid "Padding bottom"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:112, src/tm-9studio/customizer/section-footer.php:140, src/tm-9studio/customizer/section-header.php:135
+msgid "Margin top"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:135, src/tm-9studio/customizer/section-footer.php:162, src/tm-9studio/customizer/section-header.php:157
+msgid "Margin bottom"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:162, src/tm-9studio/customizer/section-footer.php:189, src/tm-9studio/customizer/section-navigation.php:13
+msgid "Typography"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:168, src/tm-9studio/customizer/section-footer.php:195, src/tm-9studio/customizer/section-site.php:343, src/tm-9studio/customizer/section-site.php:462
+msgid "Font size"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:196, src/tm-9studio/framework/class-helper.php:274, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:105, src/tm-9studio/vc-extend/vc-maps/insight_our_services_list.php:46, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:79, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:83, src/tm-9studio/vc-extend/vc-maps/insight_single_testimonial.php:21, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:77
+msgid "Content"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:202, src/tm-9studio/customizer/section-newsletter.php:42, src/tm-9studio/vc-extend/vc-maps/insight_hire_box.php:31
+msgid "Text"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:203, src/tm-9studio/customizer/section-copyright.php:221
+msgid "Enter the text that displays in the copyright section. HTML markup can be used."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-copyright.php:220
+msgid "Text 2"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-custom-js.php:8, src/tm-9studio/customizer/section-site.php:16, src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:67
+msgid "Enable"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:20
+msgid "Show/hide the footer."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:42
+msgid "Footer logo"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:43
+msgid "Select an image file for your footer logo."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:52, src/tm-9studio/vc-extend/vc-maps/insight_social.php:30
+msgid "Social links"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:53
+msgid "Enable to show the social links in footer."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:62
+msgid "Google map"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:63
+msgid "Enable to show the Google map in footer."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-footer.php:72
+msgid "Google map iframe code"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-gmap.php:8
+msgid "Google Map API key"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:13, src/tm-9studio/customizer/section-newsletter.php:13
+msgid "General"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:19
+msgid "Header Type"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:24
+msgid "Header 01"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:25
+msgid "Header 02"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:26
+msgid "Header 03"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:53, src/tm-9studio/customizer/section-logo.php:48
+msgid "Sticky"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:62, src/tm-9studio/customizer/section-site.php:75
+msgid "Search"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:71
+msgid "Right slide panel"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:184, src/tm-9studio/customizer/section-navigation.php:188, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:27, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:36, src/tm-9studio/vc-extend/vc-maps/insight_title.php:136
+msgid "Color"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-header.php:190
+msgid "Background color"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:8
+msgid "Logo title"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:9
+msgid "Enter the text used as the title attribute."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:18
+msgid "Logo alt"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:19
+msgid "Enter the text used as the alt attribute."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:30
+msgid "Default logo"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:36
+msgid "Normal logo"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:37, src/tm-9studio/customizer/section-logo.php:73
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:54
+msgid "Sticky header logo"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:55
+msgid "Select an image file for your sticky header logo."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:66
+msgid "Mobile"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-logo.php:72
+msgid "Mobile logo"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-navigation.php:19, src/tm-9studio/customizer/section-site.php:321, src/tm-9studio/customizer/section-site.php:373, src/tm-9studio/customizer/section-site.php:408, src/tm-9studio/customizer/section-site.php:440, src/tm-9studio/customizer/section-title.php:42
+msgid "Font family"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-navigation.php:39
+msgid "Level 1 Font size"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-navigation.php:61
+msgid "Level 2 Font size"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-navigation.php:139
+msgid "Padding left"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-navigation.php:161
+msgid "Padding right"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-navigation.php:194
+msgid "Link normal"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-navigation.php:210
+msgid "Link hover"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:20
+msgid "Show/hide the newsletter section."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:43
+msgid "Enter the text that displays in the newsletter section."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:46
+msgid "Subscribe to our Newsletter"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:52
+msgid "Shortcode"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:53
+msgid "Enter the shortcode that displays in the newsletter section."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:56
+msgid "[mc4wp_form id=130]"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:62, src/tm-9studio/customizer/section-title.php:125
+msgid "Background Image"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-newsletter.php:63
+msgid "Select an image file for newsletter background."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-post.php:8
+msgid "Show author"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-post.php:9
+msgid "Enable to show the author information in single post."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-post.php:18
+msgid "Show prev/next post"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-post.php:19
+msgid "Enable to show the prev/next post in single post."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:10
+msgid "Product Archive"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:17
+msgid "Choose layout for all product archive pages as product category, product tag, product search..."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:27
+msgid "Product Columns"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:28
+msgid "Controls the columns of product on shop or product category page."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:33
+msgid "2"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:34
+msgid "3"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:35
+msgid "4"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:42
+msgid "New Badge (Days)"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:43
+msgid "If the product was published within the newness time frame display the new badge."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:48
+msgid "1 day"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:49
+msgid "2 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:50
+msgid "3 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:51
+msgid "4 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:52
+msgid "5 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:53
+msgid "6 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:54
+msgid "7 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:55
+msgid "8 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:56
+msgid "9 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:57
+msgid "10 days"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:66
+msgid "Product Single"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-shop.php:73
+msgid "Choose layout for single product page."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:10
+msgid "Back to top"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:17
+msgid "Enable this option to show the \"back to top\" button."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:39
+msgid "Easily adjust your site's layout."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:45
+msgid "Page"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:65
+msgid "Archive"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:85
+msgid "Hide Sidebar on Mobile"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:86
+msgid "Enable this option to hide the sidebar on mobile screen."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:100
+msgid "Main color"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:106, src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:9
+msgid "Primary color"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:272
+msgid "Link color"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:278
+msgid "Normal"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:294
+msgid "Hover"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:315
+msgid "Body typography"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:322
+msgid "These settings control the typography for all body text."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:367
+msgid "Secondary font"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:402
+msgid "Third font"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:434
+msgid "Normal heading typography"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:441
+msgid "These settings control the typography for all heading text."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:463
+msgid "H1"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:485
+msgid "H2"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:507
+msgid "H3"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:529
+msgid "H4"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:551
+msgid "H5"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-site.php:573
+msgid "H6"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-socials.php:11
+msgid "You can find icon class <a target=\"_blank\" href=\"http://fontawesome.io/cheatsheet/\">here</a>."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-socials.php:48
+msgid "Tooltip"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-socials.php:49
+msgid "Enter your hint text for your icon"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-socials.php:54
+msgid "Font Awesome Class"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-socials.php:55
+msgid "This will be the icon class for your link"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-socials.php:60
+msgid "Link URL"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-socials.php:61
+msgid "This will be the link URL"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-title.php:11, src/tm-9studio/framework/class-metabox.php:174, src/tm-9studio/framework/class-metabox.php:472, src/tm-9studio/framework/class-metabox.php:672
+msgid "Title visibility"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-title.php:12
+msgid "Show/hide the title by default. You also can show/hide the title for each page by settings in Page Options."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-title.php:21, src/tm-9studio/framework/class-metabox.php:207, src/tm-9studio/framework/class-metabox.php:505, src/tm-9studio/framework/class-metabox.php:705
+msgid "Breadcrumbs visibility"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-title.php:22
+msgid "Show/hide the breadcrumbs by default. You also can show/hide the breadcrumbs for each page by settings in Page Options."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-title.php:108
+msgid "Background"
+msgstr ""
+
+#: src/tm-9studio/customizer/section-title.php:109
+msgid "Controls the color of title background."
+msgstr ""
+
+#: src/tm-9studio/customizer/section-title.php:126
+msgid "Select an image file for title background."
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:34
+msgid "Album"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:35
+msgid "arc"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:36
+msgid "back-2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:37
+msgid "bandaid"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:38
+msgid "car"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:39
+msgid "diamond"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:40
+msgid "door-lock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:41
+msgid "eyedropper"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:42, src/tm-9studio/framework/class-fonticon.php:371
+msgid "female"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:43
+msgid "gym"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:44, src/tm-9studio/framework/class-fonticon.php:309
+msgid "hammer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:45
+msgid "headphones"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:46
+msgid "helm"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:47
+msgid "hourglass"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:48, src/tm-9studio/framework/class-fonticon.php:478
+msgid "leaf"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:49
+msgid "magic wand"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:50, src/tm-9studio/framework/class-fonticon.php:372
+msgid "male"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:51
+msgid "map 2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:52
+msgid "next 2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:53
+msgid "paint bucket"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:54
+msgid "pendrive"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:55
+msgid "photo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:56
+msgid "piggy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:57
+msgid "plugin"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:58
+msgid "refresh 2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:59
+msgid "rocket"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:60, src/tm-9studio/framework/class-fonticon.php:307
+msgid "settings"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:61
+msgid "shield"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:62
+msgid "smile"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:63, src/tm-9studio/framework/class-fonticon.php:415
+msgid "usb"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:64
+msgid "vector"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:65
+msgid "wine"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:66
+msgid "cloud upload"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:67, src/tm-9studio/framework/class-fonticon.php:453
+msgid "cash"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:68, src/tm-9studio/framework/class-fonticon.php:276
+msgid "close"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:69, src/tm-9studio/framework/class-fonticon.php:392
+msgid "bluetooth"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:70
+msgid "cloud download"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:71
+msgid "way"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:72
+msgid "close circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:73
+msgid "id"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:74
+msgid "angle up"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:75
+msgid "wristwatch"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:76
+msgid "angle-up-circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:77
+msgid "world"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:78
+msgid "Angle Right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:79
+msgid "volume"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:80
+msgid "angle right circle right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:81
+msgid "Users"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:82
+msgid "angle left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:83
+msgid "user female"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:84
+msgid "angle left circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:85
+msgid "Sound"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:86
+msgid "up arrow"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:87
+msgid "switch"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:88
+msgid "down circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:89, src/tm-9studio/framework/class-fonticon.php:316
+msgid "scissors"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:90
+msgid "wallet"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:91
+msgid "safe"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:92
+msgid "volume2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:93
+msgid "volume1"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:94
+msgid "voice mail"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:95
+msgid "video"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:96
+msgid "user"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:97, src/tm-9studio/framework/class-fonticon.php:338
+msgid "upload"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:98
+msgid "unlock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:99, src/tm-9studio/framework/class-fonticon.php:483
+msgid "umbrella"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:100
+msgid "trash"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:101
+msgid "tools"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:102
+msgid "timer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:103
+msgid "ticket"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:104
+msgid "target"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:105
+msgid "sun"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:106
+msgid "study"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:107
+msgid "stopwatch"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:108, src/tm-9studio/framework/class-fonticon.php:300
+msgid "star"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:109
+msgid "speaker"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:110
+msgid "signal"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:111, src/tm-9studio/framework/class-fonticon.php:296
+msgid "shuffle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:112
+msgid "shopbag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:113, src/tm-9studio/framework/class-fonticon.php:327
+msgid "share"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:114
+msgid "server"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:115, src/tm-9studio/framework/class-fonticon.php:298
+msgid "search"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:116, src/tm-9studio/framework/class-fonticon.php:984
+msgid "film"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:117
+msgid "science"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:118
+msgid "disk"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:119
+msgid "ribbon"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:120
+msgid "repeat"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:121, src/tm-9studio/framework/class-fonticon.php:294
+msgid "refresh"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:122
+msgid "add user"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:123
+msgid "refresh cloud"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:124, src/tm-9studio/framework/class-fonticon.php:330
+msgid "paperclip"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:125
+msgid "radio"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:126
+msgid "note2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:127
+msgid "print"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:128, src/tm-9studio/framework/class-fonticon.php:422
+msgid "network"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:129
+msgid "prev"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:130
+msgid "mute"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:131, src/tm-9studio/framework/class-fonticon.php:384
+msgid "power"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:132
+msgid "medal"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:133
+msgid "portfolio"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:134
+msgid "like2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:135, src/tm-9studio/framework/class-fonticon.php:279
+msgid "plus"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:136
+msgid "left arrow"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:137, src/tm-9studio/framework/class-fonticon.php:444
+msgid "play"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:138, src/tm-9studio/framework/class-fonticon.php:352
+msgid "key"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:139, src/tm-9studio/framework/class-fonticon.php:489
+msgid "plane"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:140
+msgid "joy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:141
+msgid "photo gallery"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:142, src/tm-9studio/framework/class-fonticon.php:345
+msgid "pin"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:143
+msgid "phone"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:144
+msgid "plug"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:145
+msgid "pen"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:146
+msgid "right arrow"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:147
+msgid "paper plane"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:148
+msgid "delete user"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:149
+msgid "paint"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:150
+msgid "bottom arrow"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:151
+msgid "notebook"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:152
+msgid "note"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:153
+msgid "next"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:154
+msgid "news paper"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:155
+msgid "musiclist"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:156
+msgid "music"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:157, src/tm-9studio/framework/class-fonticon.php:385
+msgid "mouse"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:158, src/tm-9studio/framework/class-fonticon.php:339
+msgid "more"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:159
+msgid "moon"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:160, src/tm-9studio/framework/class-fonticon.php:409
+msgid "monitor"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:161
+msgid "micro"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:162
+msgid "menu"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:163, src/tm-9studio/framework/class-fonticon.php:348
+msgid "map"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:164
+msgid "map marker"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:165
+msgid "mail"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:166
+msgid "mail open"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:167
+msgid "mail open file"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:168, src/tm-9studio/framework/class-fonticon.php:470
+msgid "magnet"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:169, src/tm-9studio/framework/class-fonticon.php:295
+msgid "loop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:170
+msgid "look"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:171
+msgid "lock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:172
+msgid "lintern"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:173, src/tm-9studio/framework/class-fonticon.php:329
+msgid "link"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:174
+msgid "like"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:175
+msgid "light"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:176
+msgid "less"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:177
+msgid "keypad"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:178
+msgid "junk"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:179
+msgid "info"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:180, src/tm-9studio/framework/class-fonticon.php:297
+msgid "home"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:181
+msgid "help2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:182
+msgid "help1"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:183, src/tm-9studio/framework/class-fonticon.php:186
+msgid "graph3"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:184
+msgid "graph2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:185
+msgid "graph1"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:187
+msgid "global"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:188
+msgid "gleam"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:189
+msgid "glasses"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:190
+msgid "gift"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:191, src/tm-9studio/framework/class-fonticon.php:321
+msgid "folder"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:192, src/tm-9studio/framework/class-fonticon.php:299
+msgid "flag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:193
+msgid "filter"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:194
+msgid "file"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:195
+msgid "expand1"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:196
+msgid "expand2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:197, src/tm-9studio/framework/class-fonticon.php:310
+msgid "edit"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:198
+msgid "drop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:199
+msgid "drawer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:200
+msgid "download"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:201
+msgid "display2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:202
+msgid "display1"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:203
+msgid "diskette"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:204
+msgid "date"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:205
+msgid "cup"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:206
+msgid "culture"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:207, src/tm-9studio/framework/class-fonticon.php:405
+msgid "crop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:208
+msgid "credit"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:209
+msgid "copy file"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:210
+msgid "config"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:211, src/tm-9studio/framework/class-fonticon.php:343
+msgid "compass"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:212
+msgid "comment"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:213, src/tm-9studio/framework/class-fonticon.php:381
+msgid "coffee"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:214, src/tm-9studio/framework/class-fonticon.php:337
+msgid "cloud"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:215, src/tm-9studio/framework/class-fonticon.php:342
+msgid "clock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:216
+msgid "check"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:217
+msgid "chat"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:218
+msgid "cart"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:219
+msgid "Camera"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:220
+msgid "call"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:221, src/tm-9studio/framework/class-fonticon.php:393
+msgid "calculator"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:222
+msgid "browser"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:223
+msgid "box2"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:224
+msgid "box1"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:225
+msgid "bookmarks"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:226
+msgid "bicycle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:227
+msgid "bell"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:228
+msgid "battery"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:229
+msgid "ball"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:230
+msgid "back"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:231
+msgid "attention"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:232
+msgid "anchor"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:233
+msgid "albums"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:234
+msgid "alarm"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:235
+msgid "airplay"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:243
+msgid "ionic"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:244
+msgid "arrow up a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:245
+msgid "arrow right a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:246
+msgid "arrow down a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:247
+msgid "arrow left a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:248
+msgid "arrow up b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:249
+msgid "arrow right b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:250
+msgid "arrow down b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:251
+msgid "arrow left b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:252
+msgid "arrow up c"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:253
+msgid "arrow right c"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:254
+msgid "arrow down c"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:255
+msgid "arrow left c"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:256
+msgid "arrow return right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:257
+msgid "arrow return left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:258
+msgid "arrow swap"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:259
+msgid "arrow shrink"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:260
+msgid "arrow expand"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:261
+msgid "arrow move"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:262
+msgid "arrow resize"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:263
+msgid "chevron up"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:264
+msgid "chevron right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:265
+msgid "chevron down"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:266
+msgid "chevron left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:267
+msgid "navicon round"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:268
+msgid "navicon"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:269
+msgid "drag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:270
+msgid "log in"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:271
+msgid "log out"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:272
+msgid "checkmark round"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:273
+msgid "checkmark"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:274
+msgid "checkmark circled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:275
+msgid "close round"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:277
+msgid "close circled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:278
+msgid "plus round"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:280
+msgid "plus circled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:281
+msgid "minus round"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:282
+msgid "minus"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:283
+msgid "minus circled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:284
+msgid "information"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:285
+msgid "information circled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:286
+msgid "help"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:287
+msgid "help circled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:288
+msgid "backspace outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:289
+msgid "backspace"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:290
+msgid "help buoy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:291
+msgid "asterisk"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:292
+msgid "alert"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:293
+msgid "alert circled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:301
+msgid "heart"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:302
+msgid "heart broken"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:303
+msgid "gear a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:304
+msgid "gear b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:305
+msgid "toggle filled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:306
+msgid "toggle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:308
+msgid "wrench"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:311
+msgid "trash a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:312
+msgid "trash b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:313
+msgid "document"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:314
+msgid "document text"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:315
+msgid "clipboard"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:317
+msgid "funnel"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:318
+msgid "bookmark"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:319
+msgid "email"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:320
+msgid "email unread"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:322
+msgid "filing"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:323
+msgid "archive"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:324
+msgid "reply"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:325
+msgid "reply all"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:326
+msgid "forward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:328
+msgid "paper airplane"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:331
+msgid "compose"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:332
+msgid "briefcase"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:333
+msgid "medkit"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:334
+msgid "at"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:335
+msgid "pound"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:336
+msgid "quote"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:340
+msgid "grid"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:341
+msgid "calendar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:344
+msgid "pinpoint"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:346
+msgid "navigate"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:347
+msgid "location"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:349
+msgid "lock combination"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:350
+msgid "locked"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:351
+msgid "unlocked"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:353
+msgid "arrow graph up right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:354
+msgid "arrow graph down right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:355
+msgid "arrow graph up left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:356
+msgid "arrow graph down left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:357
+msgid "stats bars"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:358
+msgid "connection bars"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:359
+msgid "pie graph"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:360
+msgid "chatbubble"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:361
+msgid "chatbubble working"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:362
+msgid "chatbubbles"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:363
+msgid "chatbox"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:364
+msgid "chatbox working"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:365
+msgid "chatboxes"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:366
+msgid "person"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:367
+msgid "person add"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:368
+msgid "person stalker"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:369
+msgid "woman"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:370
+msgid "man"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:373
+msgid "transgender"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:374
+msgid "fork"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:375
+msgid "knife"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:376
+msgid "spoon"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:377
+msgid "soup can outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:378
+msgid "soup can"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:379
+msgid "beer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:380
+msgid "wineglass"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:382
+msgid "icecream"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:383
+msgid "pizza"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:386
+msgid "battery full"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:387
+msgid "battery half"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:388
+msgid "battery low"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:389
+msgid "battery empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:390
+msgid "battery charging"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:391
+msgid "wifi"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:394
+msgid "camera"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:395
+msgid "eye"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:396
+msgid "eye disabled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:397
+msgid "flash"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:398
+msgid "flash off"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:399
+msgid "qr scanner"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:400
+msgid "image"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:401
+msgid "images"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:402
+msgid "wand"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:403
+msgid "contrast"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:404
+msgid "aperture"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:406
+msgid "easel"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:407
+msgid "paintbrush"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:408
+msgid "paintbucket"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:410
+msgid "laptop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:411
+msgid "ipad"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:412
+msgid "iphone"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:413
+msgid "ipod"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:414
+msgid "printer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:416
+msgid "outlet"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:417
+msgid "bug"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:418
+msgid "code"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:419
+msgid "code working"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:420
+msgid "code download"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:421
+msgid "fork repo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:423
+msgid "pull request"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:424
+msgid "merge"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:425
+msgid "xbox"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:426
+msgid "playstation"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:427
+msgid "steam"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:428
+msgid "closed captioning"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:429
+msgid "videocamera"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:430
+msgid "film marker"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:431
+msgid "disc"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:432
+msgid "headphone"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:433
+msgid "music note"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:434
+msgid "radio waves"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:435
+msgid "speakerphone"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:436
+msgid "mic a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:437
+msgid "mic b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:438
+msgid "mic c"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:439
+msgid "volume high"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:440
+msgid "volume medium"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:441
+msgid "volume low"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:442
+msgid "volume mute"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:443
+msgid "levels"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:445
+msgid "pause"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:446
+msgid "stop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:447
+msgid "record"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:448
+msgid "skip forward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:449
+msgid "skip backward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:450
+msgid "eject"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:451
+msgid "bag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:452
+msgid "card"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:454
+msgid "pricetag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:455
+msgid "pricetags"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:456
+msgid "thumbsup"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:457
+msgid "thumbsdown"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:458
+msgid "happy outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:459
+msgid "happy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:460
+msgid "sad outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:461
+msgid "sad"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:462
+msgid "bowtie"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:463
+msgid "tshirt outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:464
+msgid "tshirt"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:465
+msgid "trophy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:466
+msgid "podium"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:467
+msgid "ribbon a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:468
+msgid "ribbon b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:469
+msgid "university"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:471
+msgid "beaker"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:472
+msgid "erlenmeyer flask"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:473
+msgid "egg"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:474
+msgid "earth"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:475
+msgid "planet"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:476
+msgid "lightbulb"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:477
+msgid "cube"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:479
+msgid "waterdrop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:480
+msgid "flame"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:481
+msgid "fireball"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:482
+msgid "bonfire"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:484
+msgid "nuclear"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:485
+msgid "no smoking"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:486
+msgid "thermometer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:487
+msgid "speedometer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:488
+msgid "model s"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:490
+msgid "jet"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:491
+msgid "load a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:492
+msgid "load b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:493
+msgid "load c"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:494
+msgid "load d"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:495
+msgid "ios ionic outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:496
+msgid "ios arrow back"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:497
+msgid "ios arrow forward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:498
+msgid "ios arrow up"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:499
+msgid "ios arrow right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:500
+msgid "ios arrow down"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:501
+msgid "ios arrow left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:502
+msgid "ios arrow thin up"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:503
+msgid "ios arrow thin right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:504
+msgid "ios arrow thin down"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:505
+msgid "ios arrow thin left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:506
+msgid "ios circle filled"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:507
+msgid "ios circle outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:508
+msgid "ios checkmark empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:509
+msgid "ios checkmark outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:510
+msgid "ios checkmark"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:511
+msgid "ios plus empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:512
+msgid "ios plus outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:513
+msgid "ios plus"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:514
+msgid "ios close empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:515
+msgid "ios close outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:516
+msgid "ios close"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:517
+msgid "ios minus empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:518
+msgid "ios minus outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:519
+msgid "ios minus"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:520
+msgid "ios information empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:521
+msgid "ios information outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:522
+msgid "ios information"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:523
+msgid "ios help empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:524
+msgid "ios help outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:525
+msgid "ios help"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:526
+msgid "ios search"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:527
+msgid "ios search strong"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:528
+msgid "ios star"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:529
+msgid "ios star half"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:530
+msgid "ios star outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:531
+msgid "ios heart"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:532
+msgid "ios heart outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:533
+msgid "ios more"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:534
+msgid "ios more outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:535
+msgid "ios home"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:536
+msgid "ios home outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:537
+msgid "ios cloud"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:538
+msgid "ios cloud outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:539
+msgid "ios cloud upload"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:540
+msgid "ios cloud upload outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:541
+msgid "ios cloud download"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:542
+msgid "ios cloud download outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:543
+msgid "ios upload"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:544
+msgid "ios upload outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:545
+msgid "ios download"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:546
+msgid "ios download outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:547
+msgid "ios refresh"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:548
+msgid "ios refresh outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:549
+msgid "ios refresh empty"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:550
+msgid "ios reload"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:551
+msgid "ios loop strong"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:552
+msgid "ios loop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:553
+msgid "ios bookmarks"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:554
+msgid "ios bookmarks outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:555
+msgid "ios book"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:556
+msgid "ios book outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:557
+msgid "ios flag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:558
+msgid "ios flag outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:559
+msgid "ios glasses"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:560
+msgid "ios glasses outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:561
+msgid "ios browsers"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:562
+msgid "ios browsers outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:563
+msgid "ios at"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:564
+msgid "ios at outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:565
+msgid "ios pricetag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:566
+msgid "ios pricetag outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:567
+msgid "ios pricetags"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:568
+msgid "ios pricetags outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:569
+msgid "ios cart"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:570
+msgid "ios cart outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:571
+msgid "ios chatboxes"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:572
+msgid "ios chatboxes outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:573
+msgid "ios chatbubble"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:574
+msgid "ios chatbubble outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:575
+msgid "ios cog"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:576
+msgid "ios cog outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:577
+msgid "ios gear"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:578
+msgid "ios gear outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:579
+msgid "ios settings"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:580
+msgid "ios settings strong"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:581
+msgid "ios toggle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:582
+msgid "ios toggle outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:583
+msgid "ios analytics"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:584
+msgid "ios analytics outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:585
+msgid "ios pie"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:586
+msgid "ios pie outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:587
+msgid "ios pulse"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:588
+msgid "ios pulse strong"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:589
+msgid "ios filing"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:590
+msgid "ios filing outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:591
+msgid "ios box"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:592
+msgid "ios box outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:593
+msgid "ios compose"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:594
+msgid "ios compose outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:595
+msgid "ios trash"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:596
+msgid "ios trash outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:597
+msgid "ios copy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:598
+msgid "ios copy outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:599
+msgid "ios email"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:600
+msgid "ios email outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:601
+msgid "ios undo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:602
+msgid "ios undo outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:603
+msgid "ios redo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:604
+msgid "ios redo outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:605
+msgid "ios paperplane"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:606
+msgid "ios paperplane outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:607
+msgid "ios folder"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:608
+msgid "ios folder outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:609
+msgid "ios paper"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:610
+msgid "ios paper outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:611
+msgid "ios list"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:612
+msgid "ios list outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:613
+msgid "ios world"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:614
+msgid "ios world outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:615
+msgid "ios alarm"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:616
+msgid "ios alarm outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:617
+msgid "ios speedometer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:618
+msgid "ios speedometer outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:619
+msgid "ios stopwatch"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:620
+msgid "ios stopwatch outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:621
+msgid "ios timer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:622
+msgid "ios timer outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:623
+msgid "ios clock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:624
+msgid "ios clock outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:625
+msgid "ios time"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:626
+msgid "ios time outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:627
+msgid "ios calendar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:628
+msgid "ios calendar outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:629
+msgid "ios photos"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:630
+msgid "ios photos outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:631
+msgid "ios albums"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:632
+msgid "ios albums outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:633
+msgid "ios camera"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:634
+msgid "ios camera outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:635
+msgid "ios reverse camera"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:636
+msgid "ios reverse camera outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:637
+msgid "ios eye"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:638
+msgid "ios eye outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:639
+msgid "ios bolt"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:640
+msgid "ios bolt outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:641
+msgid "ios color wand"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:642
+msgid "ios color wand outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:643
+msgid "ios color filter"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:644
+msgid "ios color filter outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:645
+msgid "ios grid view"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:646
+msgid "ios grid view outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:647
+msgid "ios crop strong"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:648
+msgid "ios crop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:649
+msgid "ios barcode"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:650
+msgid "ios barcode outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:651
+msgid "ios briefcase"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:652
+msgid "ios briefcase outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:653
+msgid "ios medkit"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:654
+msgid "ios medkit outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:655
+msgid "ios medical"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:656
+msgid "ios medical outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:657
+msgid "ios infinite"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:658
+msgid "ios infinite outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:659
+msgid "ios calculator"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:660
+msgid "ios calculator outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:661
+msgid "ios keypad"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:662
+msgid "ios keypad outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:663
+msgid "ios telephone"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:664
+msgid "ios telephone outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:665
+msgid "ios drag"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:666
+msgid "ios location"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:667
+msgid "ios location outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:668
+msgid "ios navigate"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:669
+msgid "ios navigate outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:670
+msgid "ios locked"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:671
+msgid "ios locked outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:672
+msgid "ios unlocked"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:673
+msgid "ios unlocked outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:674
+msgid "ios monitor"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:675
+msgid "ios monitor outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:676
+msgid "ios printer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:677
+msgid "ios printer outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:678
+msgid "ios game controller a"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:679
+msgid "ios game controller a outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:680
+msgid "ios game controller b"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:681
+msgid "ios game controller b outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:682
+msgid "ios americanfootball"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:683
+msgid "ios americanfootball outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:684
+msgid "ios baseball"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:685
+msgid "ios baseball outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:686
+msgid "ios basketball"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:687
+msgid "ios basketball outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:688
+msgid "ios tennisball"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:689
+msgid "ios tennisball outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:690
+msgid "ios football"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:691
+msgid "ios football outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:692
+msgid "ios body"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:693
+msgid "ios body outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:694
+msgid "ios person"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:695
+msgid "ios person outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:696
+msgid "ios personadd"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:697
+msgid "ios personadd outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:698
+msgid "ios people"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:699
+msgid "ios people outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:700
+msgid "ios musical notes"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:701
+msgid "ios musical note"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:702
+msgid "ios bell"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:703
+msgid "ios bell outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:704
+msgid "ios mic"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:705
+msgid "ios mic outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:706
+msgid "ios mic off"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:707
+msgid "ios volume high"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:708
+msgid "ios volume low"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:709
+msgid "ios play"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:710
+msgid "ios play outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:711
+msgid "ios pause"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:712
+msgid "ios pause outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:713
+msgid "ios recording"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:714
+msgid "ios recording outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:715
+msgid "ios fastforward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:716
+msgid "ios fastforward outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:717
+msgid "ios rewind"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:718
+msgid "ios rewind outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:719
+msgid "ios skipbackward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:720
+msgid "ios skipbackward outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:721
+msgid "ios skipforward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:722
+msgid "ios skipforward outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:723
+msgid "ios shuffle strong"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:724
+msgid "ios shuffle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:725
+msgid "ios videocam"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:726
+msgid "ios videocam outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:727
+msgid "ios film"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:728
+msgid "ios film outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:729
+msgid "ios flask"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:730
+msgid "ios flask outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:731
+msgid "ios lightbulb"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:732
+msgid "ios lightbulb outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:733
+msgid "ios wineglass"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:734
+msgid "ios wineglass outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:735
+msgid "ios pint"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:736
+msgid "ios pint outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:737
+msgid "ios nutrition"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:738
+msgid "ios nutrition outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:739
+msgid "ios flower"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:740
+msgid "ios flower outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:741
+msgid "ios rose"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:742
+msgid "ios rose outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:743
+msgid "ios paw"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:744
+msgid "ios paw outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:745
+msgid "ios flame"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:746
+msgid "ios flame outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:747
+msgid "ios sunny"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:748
+msgid "ios sunny outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:749
+msgid "ios partlysunny"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:750
+msgid "ios partlysunny outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:751
+msgid "ios cloudy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:752
+msgid "ios cloudy outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:753
+msgid "ios rainy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:754
+msgid "ios rainy outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:755
+msgid "ios thunderstorm"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:756
+msgid "ios thunderstorm outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:757
+msgid "ios snowy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:758
+msgid "ios moon"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:759
+msgid "ios moon outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:760
+msgid "ios cloudy night"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:761
+msgid "ios cloudy night outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:762
+msgid "android arrow up"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:763
+msgid "android arrow forward"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:764
+msgid "android arrow down"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:765
+msgid "android arrow back"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:766
+msgid "android arrow dropup"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:767
+msgid "android arrow dropup circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:768
+msgid "android arrow dropright"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:769
+msgid "android arrow dropright circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:770
+msgid "android arrow dropdown"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:771
+msgid "android arrow dropdown circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:772
+msgid "android arrow dropleft"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:773
+msgid "android arrow dropleft circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:774
+msgid "android add"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:775
+msgid "android add circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:776
+msgid "android remove"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:777
+msgid "android remove circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:778
+msgid "android close"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:779
+msgid "android cancel"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:780
+msgid "android radio button off"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:781
+msgid "android radio button on"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:782
+msgid "android checkmark circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:783
+msgid "android checkbox outline blank"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:784
+msgid "android checkbox outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:785
+msgid "android checkbox blank"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:786
+msgid "android checkbox"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:787
+msgid "android done"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:788
+msgid "android done all"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:789
+msgid "android menu"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:790
+msgid "android more horizontal"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:791
+msgid "android more vertical"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:792
+msgid "android refresh"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:793
+msgid "android sync"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:794
+msgid "android wifi"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:795
+msgid "android call"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:796
+msgid "android apps"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:797
+msgid "android settings"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:798
+msgid "android options"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:799
+msgid "android funnel"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:800
+msgid "android search"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:801
+msgid "android home"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:802
+msgid "android cloud outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:803
+msgid "android cloud"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:804
+msgid "android download"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:805
+msgid "android upload"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:806
+msgid "android cloud done"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:807
+msgid "android cloud circle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:808
+msgid "android favorite outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:809
+msgid "android favorite"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:810
+msgid "android star outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:811
+msgid "android star half"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:812
+msgid "android star"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:813
+msgid "android calendar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:814
+msgid "android alarm clock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:815
+msgid "android time"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:816
+msgid "android stopwatch"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:817
+msgid "android watch"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:818
+msgid "android locate"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:819
+msgid "android navigate"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:820
+msgid "android pin"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:821
+msgid "android compass"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:822
+msgid "android map"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:823
+msgid "android walk"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:824
+msgid "android bicycle"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:825
+msgid "android car"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:826
+msgid "android bus"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:827
+msgid "android subway"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:828
+msgid "android train"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:829
+msgid "android boat"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:830
+msgid "android plane"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:831
+msgid "android restaurant"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:832
+msgid "android bar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:833
+msgid "android cart"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:834
+msgid "android camera"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:835
+msgid "android image"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:836
+msgid "android film"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:837
+msgid "android color palette"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:838
+msgid "android create"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:839
+msgid "android mail"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:840
+msgid "android drafts"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:841
+msgid "android send"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:842
+msgid "android archive"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:843
+msgid "android delete"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:844
+msgid "android attach"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:845
+msgid "android share"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:846
+msgid "android share alt"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:847
+msgid "android bookmark"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:848
+msgid "android document"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:849
+msgid "android clipboard"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:850
+msgid "android list"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:851
+msgid "android folder open"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:852
+msgid "android folder"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:853
+msgid "android print"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:854
+msgid "android open"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:855
+msgid "android exit"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:856
+msgid "android contract"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:857
+msgid "android expand"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:858
+msgid "android globe"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:859
+msgid "android chat"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:860
+msgid "android textsms"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:861
+msgid "android hangout"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:862
+msgid "android happy"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:863
+msgid "android sad"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:864
+msgid "android person"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:865
+msgid "android people"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:866
+msgid "android person add"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:867
+msgid "android contact"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:868
+msgid "android contacts"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:869
+msgid "android playstore"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:870
+msgid "android lock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:871
+msgid "android unlock"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:872
+msgid "android microphone"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:873
+msgid "android microphone off"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:874
+msgid "android notifications none"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:875
+msgid "android notifications"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:876
+msgid "android notifications off"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:877
+msgid "android volume mute"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:878
+msgid "android volume down"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:879
+msgid "android volume up"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:880
+msgid "android volume off"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:881
+msgid "android hand"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:882
+msgid "android desktop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:883
+msgid "android laptop"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:884
+msgid "android phone portrait"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:885
+msgid "android phone landscape"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:886
+msgid "android bulb"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:887
+msgid "android sunny"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:888
+msgid "android alert"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:889
+msgid "android warning"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:890
+msgid "social twitter"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:891
+msgid "social twitter outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:892
+msgid "social facebook"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:893
+msgid "social facebook outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:894
+msgid "social googleplus"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:895
+msgid "social googleplus outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:896
+msgid "social google"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:897
+msgid "social google outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:898
+msgid "social dribbble"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:899
+msgid "social dribbble outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:900
+msgid "social octocat"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:901
+msgid "social github"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:902
+msgid "social github outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:903
+msgid "social instagram"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:904
+msgid "social instagram outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:905
+msgid "social whatsapp"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:906
+msgid "social whatsapp outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:907
+msgid "social snapchat"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:908
+msgid "social snapchat outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:909
+msgid "social foursquare"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:910
+msgid "social foursquare outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:911
+msgid "social pinterest"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:912
+msgid "social pinterest outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:913
+msgid "social rss"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:914
+msgid "social rss outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:915
+msgid "social tumblr"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:916
+msgid "social tumblr outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:917
+msgid "social wordpress"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:918
+msgid "social wordpress outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:919
+msgid "social reddit"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:920
+msgid "social reddit outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:921
+msgid "social hackernews"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:922
+msgid "social hackernews outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:923
+msgid "social designernews"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:924
+msgid "social designernews outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:925
+msgid "social yahoo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:926
+msgid "social yahoo outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:927
+msgid "social buffer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:928
+msgid "social buffer outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:929
+msgid "social skype"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:930
+msgid "social skype outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:931
+msgid "social linkedin"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:932
+msgid "social linkedin outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:933
+msgid "social vimeo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:934
+msgid "social vimeo outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:935
+msgid "social twitch"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:936
+msgid "social twitch outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:937
+msgid "social youtube"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:938
+msgid "social youtube outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:939
+msgid "social dropbox"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:940
+msgid "social dropbox outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:941
+msgid "social apple"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:942
+msgid "social apple outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:943
+msgid "social android"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:944
+msgid "social android outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:945
+msgid "social windows"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:946
+msgid "social windows outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:947
+msgid "social html5"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:948
+msgid "social html5 outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:949
+msgid "social css3"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:950
+msgid "social css3 outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:951
+msgid "social javascript"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:952
+msgid "social javascript outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:953
+msgid "social angular"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:954
+msgid "social angular outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:955
+msgid "social nodejs"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:956
+msgid "social sass"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:957
+msgid "social python"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:958
+msgid "social chrome"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:959
+msgid "social chrome outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:960
+msgid "social codepen"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:961
+msgid "social codepen outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:962
+msgid "social markdown"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:963
+msgid "social tux"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:964
+msgid "social freebsd devil"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:965
+msgid "social usd"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:966
+msgid "social usd outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:967
+msgid "social bitcoin"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:968
+msgid "social bitcoin outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:969
+msgid "social yen"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:970
+msgid "social yen outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:971
+msgid "social euro"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:972
+msgid "social euro outline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:980
+msgid "Glasses"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:981
+msgid "Award"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:982
+msgid "cinema-screen"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:983
+msgid "film-strip"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:985
+msgid "illumination"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:986
+msgid "picture"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:987
+msgid "popcorn"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:988
+msgid "projector-screen"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:989
+msgid "seats"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:990
+msgid "television"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:991
+msgid "theater"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:992
+msgid "tickets"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:993
+msgid "tripod"
+msgstr ""
+
+#: src/tm-9studio/framework/class-fonticon.php:994
+msgid "video-camera"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:51
+msgid "Default Menu"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:65, src/tm-9studio/framework/class-helper.php:305, src/tm-9studio/framework/class-metabox.php:83, src/tm-9studio/framework/class-metabox.php:188, src/tm-9studio/framework/class-metabox.php:211, src/tm-9studio/framework/class-metabox.php:242, src/tm-9studio/framework/class-metabox.php:253, src/tm-9studio/framework/class-metabox.php:276, src/tm-9studio/framework/class-metabox.php:287, src/tm-9studio/framework/class-metabox.php:310, src/tm-9studio/framework/class-metabox.php:321, src/tm-9studio/framework/class-metabox.php:486, src/tm-9studio/framework/class-metabox.php:509, src/tm-9studio/framework/class-metabox.php:526, src/tm-9studio/framework/class-metabox.php:537, src/tm-9studio/framework/class-metabox.php:560, src/tm-9studio/framework/class-metabox.php:571, src/tm-9studio/framework/class-metabox.php:594, src/tm-9studio/framework/class-metabox.php:605, src/tm-9studio/framework/class-metabox.php:686, src/tm-9studio/framework/class-metabox.php:709, src/tm-9studio/framework/class-metabox.php:726, src/tm-9studio/framework/class-metabox.php:737, src/tm-9studio/framework/class-metabox.php:760, src/tm-9studio/framework/class-metabox.php:771, src/tm-9studio/framework/class-metabox.php:794, src/tm-9studio/framework/class-metabox.php:805, src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:90, src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:8, src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:42
+msgid "Default"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:80
+msgid "Choose a slider"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:219, src/tm-9studio/framework/class-helper.php:221
+msgid "Note"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:222
+msgid "Describe more about this element. This text just appearance in the page editor for you more easy to manage the content."
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:229, src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:117
+msgid "Extra class name"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:237
+msgid "CSS"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:245, src/tm-9studio/vc-extend/vc-maps/insight_hire_box.php:25, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:54, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:99, src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:88, src/tm-9studio/vc-extend/vc-maps/insight_links_cloud.php:20, src/tm-9studio/vc-extend/vc-maps/insight_member_skill.php:15, src/tm-9studio/vc-extend/vc-maps/insight_our_services_list.php:39, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:72, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:77, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:15, src/tm-9studio/vc-extend/vc-maps/insight_project_title.php:26, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:71, src/tm-9studio/vc-extend/vc-maps/insight_title.php:7, src/tm-9studio/vc-extend/vc-maps/insight_title.php:15
+msgid "Title"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:323, src/tm-9studio/framework/class-helper.php:343, src/tm-9studio/framework/class-helper.php:361, src/tm-9studio/framework/class-helper.php:379, src/tm-9studio/framework/class-helper.php:396, src/tm-9studio/framework/class-helper.php:414, src/tm-9studio/framework/class-helper.php:432
+msgid "Icon"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:336, src/tm-9studio/framework/class-helper.php:355, src/tm-9studio/framework/class-helper.php:373, src/tm-9studio/framework/class-helper.php:408, src/tm-9studio/framework/class-helper.php:426, src/tm-9studio/framework/class-helper.php:444
+msgid "Select icon from library."
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:464
+msgid "Group"
+msgstr ""
+
+#: src/tm-9studio/framework/class-helper.php:483, src/tm-9studio/framework/class-helper.php:504, src/tm-9studio/framework/class-helper.php:525, src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:33
+msgid "Categories"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:81, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:21, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:30, src/tm-9studio/vc-extend/vc-maps/insight_title.php:131
+msgid "Right"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:82, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:31, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:40, src/tm-9studio/vc-extend/vc-maps/insight_title.php:39
+msgid "Primary"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:203, src/tm-9studio/framework/class-metabox.php:219
+msgid "Sidebar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:204, src/tm-9studio/framework/class-init.php:214, src/tm-9studio/framework/class-init.php:224, src/tm-9studio/framework/class-init.php:234, src/tm-9studio/framework/class-init.php:244, src/tm-9studio/framework/class-init.php:254, src/tm-9studio/framework/class-init.php:264, src/tm-9studio/framework/class-init.php:274
+msgid "Add widgets here."
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:213
+msgid "Sidebar Blogger"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:223
+msgid "Header 03 Left"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:233
+msgid "Right Slide Out"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:243
+msgid "Footer Column 01"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:253
+msgid "Footer Column 02"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:263
+msgid "Footer Column 03"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:273
+msgid "Footer Column 04"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:283
+msgid "Shop Sidebar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-init.php:285
+msgid "Sidebar for all shop pages"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:140, src/tm-9studio/framework/class-like.php:209
+msgid "Like"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:140
+msgid "Likes"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:203
+msgid "%s Like"
+msgid_plural "%s Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/class-like.php:206
+msgid "Unlike"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:225, src/tm-9studio/framework/class-like.php:289
+msgid "You Like:"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:253
+msgid "You don't like anything yet."
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:328
+msgid "Today's Most Popular Posts"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:367
+msgid "This Month's Most Popular Posts"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:406
+msgid "This Week's Most Popular Posts"
+msgstr ""
+
+#: src/tm-9studio/framework/class-like.php:425
+msgid "Most Popular Posts"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:49
+msgid "Quote"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:65
+msgid "Page Options"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:84
+msgid "Fullwidth"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:85
+msgid "Content - Sidebar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:86
+msgid "Sidebar - Content"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:92, src/tm-9studio/framework/class-metabox.php:451, src/tm-9studio/framework/class-metabox.php:651
+msgid "Padding top & bottom"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:93, src/tm-9studio/framework/class-metabox.php:452, src/tm-9studio/framework/class-metabox.php:652
+msgid "If choose yes, the page content will have the padding top & bottom is 120px."
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:96, src/tm-9studio/framework/class-metabox.php:408, src/tm-9studio/framework/class-metabox.php:455, src/tm-9studio/framework/class-metabox.php:638, src/tm-9studio/framework/class-metabox.php:655, src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:74, src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:83, src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:29, src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:65, src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:79, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:41, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:50, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:59, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:47, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:26, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:35, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:44, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:46, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:56, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:66, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:50, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:59, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:68, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:64, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:73, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:30, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:39, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:48, src/tm-9studio/vc-extend/vc-maps/insight_title.php:29, src/tm-9studio/vc-extend/vc-maps/insight_title.php:93, src/tm-9studio/vc-extend/vc-maps/insight_title.php:113, src/tm-9studio/vc-extend/vc-params/toggle.php:13
+msgid "No"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:97, src/tm-9studio/framework/class-metabox.php:407, src/tm-9studio/framework/class-metabox.php:456, src/tm-9studio/framework/class-metabox.php:639, src/tm-9studio/framework/class-metabox.php:656, src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:73, src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:82, src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:28, src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:64, src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:78, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:40, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:49, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:58, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:46, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:25, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:34, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:43, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:45, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:55, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:65, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:49, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:58, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:67, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:63, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:72, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:29, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:38, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:47, src/tm-9studio/vc-extend/vc-maps/insight_title.php:28, src/tm-9studio/vc-extend/vc-maps/insight_title.php:92, src/tm-9studio/vc-extend/vc-maps/insight_title.php:112, src/tm-9studio/vc-extend/vc-params/toggle.php:12
+msgid "Yes"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:103, src/tm-9studio/framework/class-metabox.php:462, src/tm-9studio/framework/class-metabox.php:662
+msgid "Body class"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:108, src/tm-9studio/framework/class-metabox.php:261, src/tm-9studio/framework/class-metabox.php:545, src/tm-9studio/framework/class-metabox.php:745
+msgid "Custom background image"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:119
+msgid "Header visibility"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:123, src/tm-9studio/framework/class-metabox.php:178, src/tm-9studio/framework/class-metabox.php:212, src/tm-9studio/framework/class-metabox.php:243, src/tm-9studio/framework/class-metabox.php:277, src/tm-9studio/framework/class-metabox.php:311, src/tm-9studio/framework/class-metabox.php:369, src/tm-9studio/framework/class-metabox.php:476, src/tm-9studio/framework/class-metabox.php:510, src/tm-9studio/framework/class-metabox.php:527, src/tm-9studio/framework/class-metabox.php:561, src/tm-9studio/framework/class-metabox.php:595, src/tm-9studio/framework/class-metabox.php:676, src/tm-9studio/framework/class-metabox.php:710, src/tm-9studio/framework/class-metabox.php:727, src/tm-9studio/framework/class-metabox.php:761, src/tm-9studio/framework/class-metabox.php:795
+msgid "Visible"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:124, src/tm-9studio/framework/class-metabox.php:179, src/tm-9studio/framework/class-metabox.php:213, src/tm-9studio/framework/class-metabox.php:244, src/tm-9studio/framework/class-metabox.php:278, src/tm-9studio/framework/class-metabox.php:312, src/tm-9studio/framework/class-metabox.php:370, src/tm-9studio/framework/class-metabox.php:477, src/tm-9studio/framework/class-metabox.php:511, src/tm-9studio/framework/class-metabox.php:528, src/tm-9studio/framework/class-metabox.php:562, src/tm-9studio/framework/class-metabox.php:596, src/tm-9studio/framework/class-metabox.php:677, src/tm-9studio/framework/class-metabox.php:711, src/tm-9studio/framework/class-metabox.php:728, src/tm-9studio/framework/class-metabox.php:762, src/tm-9studio/framework/class-metabox.php:796
+msgid "Hidden"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:130
+msgid "Header special style"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:131
+msgid "Just should use Overlay Header or Minimal Header when the page has a slider on the top."
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:134, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:18, src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:18, src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:29
+msgid "None"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:135
+msgid "Overlay"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:136
+msgid "Minimal"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:142
+msgid "Primary menu"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:149
+msgid "Custom logo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:155
+msgid "Custom sticky logo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:161
+msgid "Top slider"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:185, src/tm-9studio/framework/class-metabox.php:483, src/tm-9studio/framework/class-metabox.php:683
+msgid "Title style"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:189, src/tm-9studio/framework/class-metabox.php:487, src/tm-9studio/framework/class-metabox.php:687
+msgid "Big"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:195, src/tm-9studio/framework/class-metabox.php:493, src/tm-9studio/framework/class-metabox.php:693, src/tm-9studio/vc-extend/vc-maps/insight_project_title.php:36
+msgid "Custom title"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:201, src/tm-9studio/framework/class-metabox.php:499, src/tm-9studio/framework/class-metabox.php:699
+msgid "Custom title background image"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:208, src/tm-9studio/framework/class-metabox.php:506, src/tm-9studio/framework/class-metabox.php:706
+msgid "If you hide the title section, breadcrumbs will be hidden."
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:225
+msgid "Page sidebar"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:226
+msgid "Choose a custom sidebar for your page"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:238, src/tm-9studio/framework/class-metabox.php:522, src/tm-9studio/framework/class-metabox.php:722
+msgid "Newsletter visibility"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:249, src/tm-9studio/framework/class-metabox.php:533, src/tm-9studio/framework/class-metabox.php:733
+msgid "Newsletter style"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:254, src/tm-9studio/framework/class-metabox.php:538, src/tm-9studio/framework/class-metabox.php:738, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:27, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:19
+msgid "Style 01"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:255, src/tm-9studio/framework/class-metabox.php:354, src/tm-9studio/framework/class-metabox.php:539, src/tm-9studio/framework/class-metabox.php:739, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:28, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:20
+msgid "Style 02"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:272, src/tm-9studio/framework/class-metabox.php:556, src/tm-9studio/framework/class-metabox.php:756
+msgid "Footer visibility"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:283, src/tm-9studio/framework/class-metabox.php:567, src/tm-9studio/framework/class-metabox.php:767
+msgid "Footer style"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:288, src/tm-9studio/framework/class-metabox.php:322, src/tm-9studio/framework/class-metabox.php:572, src/tm-9studio/framework/class-metabox.php:606, src/tm-9studio/framework/class-metabox.php:772, src/tm-9studio/framework/class-metabox.php:806
+msgid "Style 01 (Light)"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:289, src/tm-9studio/framework/class-metabox.php:323, src/tm-9studio/framework/class-metabox.php:573, src/tm-9studio/framework/class-metabox.php:607, src/tm-9studio/framework/class-metabox.php:773, src/tm-9studio/framework/class-metabox.php:807
+msgid "Style 02 (Dark)"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:295, src/tm-9studio/framework/class-metabox.php:579, src/tm-9studio/framework/class-metabox.php:779
+msgid "Custom footer logo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:306, src/tm-9studio/framework/class-metabox.php:590, src/tm-9studio/framework/class-metabox.php:790
+msgid "Copyright visibility"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:317, src/tm-9studio/framework/class-metabox.php:601, src/tm-9studio/framework/class-metabox.php:801
+msgid "Copyright style"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:335
+msgid "Post Options"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:353
+msgid "Style 01 (Default)"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:360
+msgid "Custom title background"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:366
+msgid "Featured image visibility"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:382
+msgid "Our Team Options"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:391, src/tm-9studio/vc-extend/vc-maps/insight_member_info.php:15, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:72
+msgid "Info"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:397, src/tm-9studio/vc-extend/vc-maps/insight_list_member.php:33, src/tm-9studio/vc-extend/vc-maps/insight_member.php:28, src/tm-9studio/vc-extend/vc-maps/insight_single_testimonial.php:39, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:90
+msgid "Tagline"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:398
+msgid "Designer"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:403
+msgid "Single profile page enable"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:404
+msgid "If choose Yes, this member will have link to the profile page"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:420, src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:100, src/tm-9studio/vc-extend/vc-templates/insight_team_carousel.php:63, src/tm-9studio/vc-extend/vc-templates/insight_team_filter.php:103
+msgid "Facebook"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:425, src/tm-9studio/vc-extend/vc-templates/insight_team_carousel.php:66, src/tm-9studio/vc-extend/vc-templates/insight_team_filter.php:106
+msgid "Twitter"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:430
+msgid "Google Plus"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:435, src/tm-9studio/vc-extend/vc-templates/insight_team_carousel.php:72, src/tm-9studio/vc-extend/vc-templates/insight_team_filter.php:112
+msgid "Youtube"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:440, src/tm-9studio/vc-extend/vc-templates/insight_team_carousel.php:75, src/tm-9studio/vc-extend/vc-templates/insight_team_filter.php:115
+msgid "Vimeo"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:619
+msgid "Project Options"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:628, src/tm-9studio/framework/class-posttypes.php:63, src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:26, src/tm-9studio/vc-extend/vc-maps/insight_project_featured.php:15, src/tm-9studio/vc-extend/vc-maps/insight_project.php:7
+msgid "Project"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:634
+msgid "Set featured"
+msgstr ""
+
+#: src/tm-9studio/framework/class-metabox.php:635
+msgid "Set this project is featured?"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:34
+msgid "Gallery Image"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:35
+msgid "Gallery Image Item"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:36
+msgid "New Gallery Image Item"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:37
+msgid "Add New Gallery Image Item"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:38
+msgid "Edit Gallery Image Item"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:50
+msgid "Our Team"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:88, src/tm-9studio/framework/class-posttypes.php:98
+msgid "Gallery Categories"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:89
+msgid "Gallery Category"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:90
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:91
+msgid "All Gallery Categories"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:92
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:93
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:94
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:95
+msgid "Update Gallery Category"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:96
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:97
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:111
+msgid "Our Team Group"
+msgstr ""
+
+#: src/tm-9studio/framework/class-posttypes.php:124
+msgid "Project Category"
+msgstr ""
+
+#: src/tm-9studio/framework/class-static.php:54
+msgid "Could not load theme file: "
+msgstr ""
+
+#: src/tm-9studio/framework/class-static.php:346, src/tm-9studio/framework/class-static.php:393
+msgid "Home"
+msgstr ""
+
+#: src/tm-9studio/framework/class-static.php:348
+msgid "Blog"
+msgstr ""
+
+#: src/tm-9studio/framework/class-static.php:360
+msgid "Search results for: "
+msgstr ""
+
+#: src/tm-9studio/framework/class-static.php:452
+msgid "Previous"
+msgstr ""
+
+#: src/tm-9studio/framework/class-static.php:453
+msgid "Next"
+msgstr ""
+
+#: src/tm-9studio/framework/class-templates.php:28, src/tm-9studio/framework/class-templates.php:43
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: src/tm-9studio/framework/class-templates.php:30
+msgid ", "
+msgstr ""
+
+#: src/tm-9studio/framework/class-templates.php:54, src/tm-9studio/vc-extend/vc-templates/insight_blog_carousel.php:68, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:32, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:61, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:116, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:160, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:190, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:239, src/tm-9studio/vc-extend/vc-templates/insight_one_page.php:30
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/class-templates.php:61
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/class-templates.php:115
+msgid "Leave a comment"
+msgstr ""
+
+#: src/tm-9studio/framework/class-templates.php:115
+msgid "1 Comment"
+msgstr ""
+
+#: src/tm-9studio/framework/class-templates.php:115
+msgid "% Comments"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:327, src/tm-9studio/framework/tgm-plugin-registration.php:28
+msgid "Install Required Plugins"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:328, src/tm-9studio/framework/tgm-plugin-registration.php:29
+msgid "Install Plugins"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:330, src/tm-9studio/framework/tgm-plugin-registration.php:30
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:333, src/tm-9studio/framework/tgm-plugin-registration.php:32
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:334
+msgid "/*translators:1:pluginnames.*/This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:340
+msgid "/*translators:1:pluginnames.*/This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:346
+msgid "/*translators:1:pluginnames.*/The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:352
+msgid "/*translators:1:pluginnames.*/There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:358
+msgid "/*translators:1:pluginnames.*/The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:364
+msgid "/*translators:1:pluginnames.*/The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:370, src/tm-9studio/framework/tgm-plugin-registration.php:51
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:375, src/tm-9studio/framework/tgm-plugin-registration.php:52
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:380, src/tm-9studio/framework/tgm-plugin-registration.php:53
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:385, src/tm-9studio/framework/tgm-plugin-registration.php:54
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:386, src/tm-9studio/framework/tgm-plugin-activation.php:867, src/tm-9studio/framework/tgm-plugin-activation.php:2620, src/tm-9studio/framework/tgm-plugin-activation.php:3681
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:387, src/tm-9studio/framework/tgm-plugin-activation.php:3255, src/tm-9studio/framework/tgm-plugin-registration.php:55
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:388, src/tm-9studio/framework/tgm-plugin-activation.php:3042, src/tm-9studio/framework/tgm-plugin-registration.php:56
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:390, src/tm-9studio/framework/tgm-plugin-registration.php:57
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:392, src/tm-9studio/framework/tgm-plugin-registration.php:59
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:394, src/tm-9studio/framework/tgm-plugin-registration.php:61
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:397, src/tm-9studio/framework/tgm-plugin-registration.php:63
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:552
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:553
+msgid "Update Required"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:670
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:975
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:975, src/tm-9studio/framework/tgm-plugin-activation.php:981
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:981
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:1169, src/tm-9studio/framework/tgm-plugin-activation.php:3038
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2056
+msgid "TGMPA v%s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2353
+msgid "Required"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2356
+msgid "Recommended"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2373
+msgid "WordPress Repository"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2376
+msgid "External Source"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2379
+msgid "Pre-Packaged"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2397
+msgid "Not Installed"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2401
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2403
+msgid "Active"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2409
+msgid "Required Update not Available"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2412
+msgid "Requires Update"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2415
+msgid "Update recommended"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2424
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2471
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2475
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2479
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2483
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2569
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2577
+msgid "Installed version:"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2585
+msgid "Minimum required version:"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2597
+msgid "Available version:"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2620
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2634
+msgid "Plugin"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2635
+msgid "Source"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2640
+msgid "Version"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2641
+msgid "Status"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2691
+msgid "Install %2$s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2696
+msgid "Update %2$s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2702
+msgid "Activate %2$s"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2774
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2807
+msgid "Install"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2813
+msgid "Update"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2816
+msgid "Activate"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2890
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2892
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:2998
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3024
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3254
+msgid "Plugin activation failed."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3599
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3602
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3604
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3608
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3610
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3610, src/tm-9studio/framework/tgm-plugin-activation.php:3618
+msgid "Show Details"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3610, src/tm-9studio/framework/tgm-plugin-activation.php:3618
+msgid "Hide Details"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3611
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3613
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3616
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3618
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3619
+msgid "All installations have been completed."
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-activation.php:3621
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:33
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:35
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:37
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:39
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:41
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:43
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:45
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:47
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/framework/tgm-plugin-registration.php:49
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/functions.php:22
+msgid "by %s"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:7
+msgid "Blog Carousel"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:26
+msgid "Number posts"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:35, src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:54, src/tm-9studio/vc-extend/vc-maps/insight_project_filter.php:16, src/tm-9studio/vc-extend/vc-maps/insight_project_justified.php:16, src/tm-9studio/vc-extend/vc-maps/insight_project_masonry.php:16, src/tm-9studio/vc-extend/vc-maps/insight_project.php:16
+msgid "Order by"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:51, src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:71, src/tm-9studio/vc-extend/vc-maps/insight_project_filter.php:33
+msgid "Order"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:61, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:22, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:26, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:31, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:45, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:53
+msgid "Slides to display"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:70, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:37, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:22, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:42, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:46, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:60, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:26
+msgid "Show bullets"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_blog_carousel.php:79, src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:55, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:40, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:62, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:64, src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:69, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:44
+msgid "Enable autoplay"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:7
+msgid "Button"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:28, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:38, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:63, src/tm-9studio/vc-extend/vc-maps/insight_member.php:39, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:30, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:48, src/tm-9studio/vc-extend/vc-maps/insight_social_link.php:20
+msgid "Icon library"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:31, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:42, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:66, src/tm-9studio/vc-extend/vc-maps/insight_member.php:41, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:33, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:52, src/tm-9studio/vc-extend/vc-maps/insight_social_link.php:22
+msgid "Font Awesome"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:32, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:67, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:34
+msgid "Open Iconic"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:33, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:68, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:35
+msgid "Typicons"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:34, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:69, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:36
+msgid "Entypo"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:35, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:70, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:37
+msgid "Linecons"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:36, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:43, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:71, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:38, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:53
+msgid "Ionicons"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:37, src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:102, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:41, src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:72, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:39, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:51
+msgid "9studio"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:41, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:47, src/tm-9studio/vc-extend/vc-maps/insight_member.php:44, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:43, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:57, src/tm-9studio/vc-extend/vc-maps/insight_social_link.php:25
+msgid "Select icon library."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:53, src/tm-9studio/vc-extend/vc-maps/insight_hire_box.php:42, src/tm-9studio/vc-extend/vc-maps/insight_list_member.php:20, src/tm-9studio/vc-extend/vc-maps/insight_member.php:15, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:65, src/tm-9studio/vc-extend/vc-templates/insight_carousel.php:56, src/tm-9studio/vc-extend/vc-templates/insight_gallery_carousel.php:23, src/tm-9studio/vc-extend/vc-templates/insight_icon_boxes.php:18, src/tm-9studio/vc-extend/vc-templates/insight_image_carousel.php:23, src/tm-9studio/vc-extend/vc-templates/insight_instagram_feed.php:27, src/tm-9studio/vc-extend/vc-templates/insight_menu_add_param.php:41, src/tm-9studio/vc-extend/vc-templates/insight_post_slider.php:70
+msgid "Image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:60, src/tm-9studio/vc-extend/vc-maps/insight_hire_box.php:36, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:66, src/tm-9studio/vc-extend/vc-maps/insight_links_cloud.php:27, src/tm-9studio/vc-extend/vc-maps/insight_member_info.php:42, src/tm-9studio/vc-extend/vc-maps/insight_member.php:50, src/tm-9studio/vc-extend/vc-maps/insight_our_services_list.php:22, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:85, src/tm-9studio/vc-extend/vc-maps/insight_social_link.php:31, src/tm-9studio/vc-extend/vc-params/social-links.php:107
+msgid "Link"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_button.php:66, src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:15, src/tm-9studio/vc-extend/vc-maps/insight_title.php:126
+msgid "Align"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:7
+msgid "Carousel"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:22
+msgid "Custom image size"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:36, src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:50
+msgid "Width"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:47, src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:43
+msgid "Height"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:58
+msgid "Auto play"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:72
+msgid "Show dots"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_carousel.php:86
+msgid "Slides per row"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:7
+msgid "Gallery Carousel"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:15, src/tm-9studio/vc-extend/vc-maps/insight_gallery_fullscreen.php:15
+msgid "Images"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery_carousel.php:46, src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:31, src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:52, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:55, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:35
+msgid "Show arrows"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery_fullscreen.php:7
+msgid "Gallery Full Screen"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery_fullscreen.php:16
+msgid "Just choose 4 images."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:7
+msgid "Gallery"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:44
+msgid "Categories Default"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:82, src/tm-9studio/vc-extend/vc-maps/insight_project_filter.php:44, src/tm-9studio/vc-extend/vc-maps/insight_project_justified.php:44, src/tm-9studio/vc-extend/vc-maps/insight_project_masonry.php:44, src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:22, src/tm-9studio/vc-extend/vc-maps/insight_project.php:44, src/tm-9studio/vc-extend/vc-maps/insight_team_filter.php:36
+msgid "Number"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:85
+msgid "Number of image(s) per page"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:89
+msgid "Image width"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:93, src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:101
+msgid "px"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gallery.php:97
+msgid "Image height"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:16
+msgid "Google Maps"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:23
+msgid "Address or Coordinate"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:27
+msgid "Enter address or coordinate."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:31
+msgid "Marker icon"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:33
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:37
+msgid "Marker Information"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:39
+msgid "Content for info window"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:46
+msgid "Enter map height (in pixels or percentage)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:53
+msgid "Enter map width (in pixels or percentage)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:57
+msgid "Zoom level"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:60
+msgid "Map zoom level"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:64
+msgid "Enable Map zoom"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:72
+msgid "Map type"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:75
+msgid "Choose a map type"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:77
+msgid "Roadmap"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:78
+msgid "Satellite"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:79
+msgid "Hybrid"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:80
+msgid "Terrain"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:85
+msgid "Map style"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:88
+msgid "Choose a map style. This approach changes the style of the Roadmap types (base imagery in terrain and satellite views is not affected, but roads, labels, etc. respect styling rules"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:91
+msgid "Grayscale"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:92
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:93
+msgid "Apple Maps-esque"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:94
+msgid "Pale Dawn"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:95
+msgid "Muted Blue"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:96
+msgid "Paper"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:97
+msgid "Light Dream"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:98
+msgid "Retro"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:99
+msgid "Avocado World"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:101
+msgid "Shades of Grey"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:103, src/tm-9studio/vc-extend/vc-params/gradient.php:42
+msgid "Custom"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:108
+msgid "Map style snippet"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_gmaps.php:119
+msgid "If you want to use multiple Google Maps in one page, please add a class name for them."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_hire_box.php:7
+msgid "Hire Box"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_hire_box.php:48
+msgid "Text on image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:7
+msgid "Home Blog (4 Posts)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:31
+msgid "Blog 01 (Normal)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:40
+msgid "Custom Blog 01 Image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:41, src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:58, src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:84
+msgid "If not set, the blog featured image will be used."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:48
+msgid "Blog 02 (Normal)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:57
+msgid "Custom Blog 02 Image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:65
+msgid "Blog 03 (Quote)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:74
+msgid "Blog 04 (Video)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_blog.php:83
+msgid "Custom Blog 04 Image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:7
+msgid "Home Services"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:19, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:29, src/tm-9studio/vc-extend/vc-maps/insight_title.php:130
+msgid "Left"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:20, src/tm-9studio/vc-extend/vc-maps/insight_title.php:129
+msgid "Center"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:30, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:39
+msgid "White"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:32, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:41
+msgid "Black"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_home_services.php:61, src/tm-9studio/vc-extend/vc-maps/insight_our_services_list.php:34
+msgid "Services"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:7
+msgid "Icon Box"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:40
+msgid "Display icon"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:53
+msgid "Icon type"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:87
+msgid "Custom icon"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:93
+msgid "Icon text"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:111
+msgid "Title element tag"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:128
+msgid "\"Read more\" link"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_icon_boxes.php:134
+msgid "Icon background"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_image_carousel.php:7
+msgid "Image Carousel"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:19
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:22
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:28, src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:35, src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:38
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:47
+msgid "Instagram Image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:75
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:81
+msgid "Instagram Feed"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:90
+msgid "From Instagram"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:95
+msgid "Username"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_instagram_feed.php:102
+msgid "Number of items"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_links_cloud.php:7, src/tm-9studio/vc-extend/vc-maps/insight_links_cloud.php:15
+msgid "Links Cloud"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_list_member.php:7
+msgid "Member List"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_list_member.php:15
+msgid "Members"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_list_member.php:23, src/tm-9studio/vc-extend/vc-maps/insight_member.php:18
+msgid "Select an image from media library."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_list_member.php:27, src/tm-9studio/vc-extend/vc-maps/insight_member_info.php:20, src/tm-9studio/vc-extend/vc-maps/insight_member_skill.php:28, src/tm-9studio/vc-extend/vc-maps/insight_member.php:22, src/tm-9studio/vc-extend/vc-maps/insight_single_testimonial.php:32, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:83
+msgid "Name"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_member_info.php:7
+msgid "Member Info"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_member_info.php:27, src/tm-9studio/vc-extend/vc-maps/insight_member_skill.php:35
+msgid "Value"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_member_skill.php:7
+msgid "Member Skill"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_member_skill.php:16
+msgid "Use / to separate the lines"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_member_skill.php:18
+msgid "There are/my skills"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_member_skill.php:23
+msgid "Skills"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_member.php:7
+msgid "Member"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:7, src/tm-9studio/vc-extend/vc-maps/insight_menu_add_param.php:15
+msgid "Menu Add Param"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:7
+msgid "One Page"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:15
+msgid "Pages"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:20
+msgid "Background image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:34
+msgid "Custom image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:35, src/tm-9studio/vc-extend/vc-maps/insight_project_featured.php:24
+msgid "If not set, the project featured image will be used."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:40, src/tm-9studio/vc-extend/vc-maps/insight_project_video.php:15, src/tm-9studio/vc-extend/vc-maps/insight_video_button.php:14, src/tm-9studio/vc-extend/vc-maps/insight_video.php:25
+msgid "Video URL"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_one_page.php:42, src/tm-9studio/vc-extend/vc-maps/insight_project_video.php:18, src/tm-9studio/vc-extend/vc-maps/insight_video_button.php:17, src/tm-9studio/vc-extend/vc-maps/insight_video.php:28
+msgid "Enter your video url (Youtube/Vimeo) here"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_our_services_list.php:7
+msgid "Our Services List"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_our_services_list.php:15
+msgid "Big title"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_our_services_list.php:29, src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:92
+msgid "Open in new tab?"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:7
+msgid "Our Services"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:19
+msgid "Icon with text"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_our_services.php:20
+msgid "Image with text"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_post_slider.php:7
+msgid "Post Slider"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_post_slider.php:15
+msgid "Slides"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_carousel.php:7
+msgid "Project Carousel"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_carousel.php:15, src/tm-9studio/vc-extend/vc-maps/insight_project_grid.php:15
+msgid "Projects"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_comment.php:7
+msgid "Project Comment"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_comment.php:8
+msgid "Comment list and form section only for single project"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_featured.php:7
+msgid "Project Featured"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_featured.php:23
+msgid "Custom Image"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_filter.php:7
+msgid "Project Filter"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_filter.php:48, src/tm-9studio/vc-extend/vc-maps/insight_project_justified.php:48, src/tm-9studio/vc-extend/vc-maps/insight_project_masonry.php:48
+msgid "Number of project"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_filter.php:52
+msgid "Filter position"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_grid.php:7
+msgid "Project Grid"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:7
+msgid "Project Info"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_info.php:8
+msgid "Project info section only for single project"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_justified.php:7
+msgid "Project Justified"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_masonry.php:7
+msgid "Project Masonry"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:7
+msgid "Project Related"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:8
+msgid "Related projects section only for single project"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_related.php:17, src/tm-9studio/vc-extend/vc-templates/insight_project_related.php:15
+msgid "Related Projects"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_title.php:7
+msgid "Project Title"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_title.php:8
+msgid "Project title section only for single project"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_video.php:7
+msgid "Project Video"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_video.php:8
+msgid "Project video section only for single project"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_video.php:23, src/tm-9studio/vc-extend/vc-maps/insight_video.php:33
+msgid "Poster"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project_video.php:29, src/tm-9studio/vc-extend/vc-maps/insight_video.php:39
+msgid "Time"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_project.php:47
+msgid "Number of project(s)"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_single_testimonial.php:7
+msgid "Single Testimonial"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_single_testimonial.php:15, src/tm-9studio/vc-extend/vc-maps/insight_single_testimonial.php:17, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:64, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:67
+msgid "Photo"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_single_testimonial.php:27
+msgid "Sign"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_social_link.php:7
+msgid "Social Link"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_social.php:22, src/tm-9studio/vc-extend/vc-templates/insight_member_info.php:24
+msgid "Social"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:7
+msgid "Team Carousel"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:15
+msgid "Team members"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:34, src/tm-9studio/vc-extend/vc-maps/insight_team_filter.php:59
+msgid "Image size"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:38, src/tm-9studio/vc-extend/vc-maps/insight_team_filter.php:63
+msgid "Size 01"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_team_carousel.php:39, src/tm-9studio/vc-extend/vc-maps/insight_team_filter.php:64
+msgid "Size 02"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_team_filter.php:7
+msgid "Team Filter"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_team_filter.php:45
+msgid "Number per row"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:7, src/tm-9studio/vc-extend/vc-maps/insight_testimonial.php:59
+msgid "Testimonials"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:21
+msgid "Title uppercase"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:35
+msgid "Title font family"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:40
+msgid "Secondary"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:45
+msgid "Title font size"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:49
+msgid "40px"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:50
+msgid "48px"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:51
+msgid "56px"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:56, src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:39
+msgid "Font weight"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:73
+msgid "Font style"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:86
+msgid "Sub title enable"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:99
+msgid "Sub title"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:106
+msgid "Description enable"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:119
+msgid "Description"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:139
+msgid "Black text"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_title.php:140
+msgid "White text"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_video_button.php:7
+msgid "Video Button"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_video.php:7
+msgid "Video"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/insight_video.php:46
+msgid "Auto play when open popup?"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:5
+msgid "Select color"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:10
+msgid "Secondary color"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:15
+msgid "Extending style"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:19
+msgid "Has bottom line"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:20
+msgid "Typing text"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:22
+msgid "If choose \"Typing text\", the text must be wrapped in &lt;mark&gt;&lt;/mark&gt; tag and split by comma."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:26
+msgid "Text transform"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:30
+msgid "Capitalize"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:31
+msgid "Uppercase"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:32
+msgid "Lowercase"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:33
+msgid "Initial"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:34
+msgid "Inherit"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:56
+msgid "Letter spacing"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-maps/vc_custom_heading.php:63
+msgid "Custom Heading"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/ajax-search.php:6
+msgid "Product Categories"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/datetime-picker.php:8
+msgid "Target Time For Countdown"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/datetime-picker.php:11
+msgid "Date and time format (yyyy/mm/dd hh:mm)."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/gradient.php:7
+msgid "Gradient Type"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/gradient.php:9
+msgid "At least two color points should be selected."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/gradient.php:40
+msgid "Vertical"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/gradient.php:41
+msgid "Horizontal"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/gradient.php:45
+msgid "Choose Colors"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/number.php:12
+msgid "Number field"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/social-links.php:106
+msgid "Social Network"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-params/toggle.php:6
+msgid "Test toggle"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_blog_carousel.php:70, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:34, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:63, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:118, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:162, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:192, src/tm-9studio/vc-extend/vc-templates/insight_home_blog.php:241, src/tm-9studio/vc-extend/vc-templates/insight_one_page.php:32
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_gallery.php:26, src/tm-9studio/vc-extend/vc-templates/insight_project_filter.php:26, src/tm-9studio/vc-extend/vc-templates/insight_project_masonry.php:26
+msgid "All"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_member.php:32, src/tm-9studio/vc-extend/vc-templates/insight_social_link.php:20
+msgid "Click Me"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_project_comment.php:17
+msgid "Comments are currently closed for this article"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_project_comment.php:20, src/tm-9studio/vc-extend/vc-templates/insight_project_info.php:28, src/tm-9studio/vc-extend/vc-templates/insight_project_related.php:62, src/tm-9studio/vc-extend/vc-templates/insight_project_title.php:34, src/tm-9studio/vc-extend/vc-templates/insight_project_video.php:21
+msgid "This shortcode just for single project page."
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_project_featured.php:29
+msgid "View more"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_team_carousel.php:69, src/tm-9studio/vc-extend/vc-templates/insight_team_filter.php:109
+msgid "Google+"
+msgstr ""
+
+#: src/tm-9studio/vc-extend/vc-templates/insight_team_filter.php:23
+msgid "#All"
+msgstr ""
+
+#: src/tm-9studio/woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/woocommerce/loop/result-count.php:35
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/woocommerce/loop/sale-flash.php:27, src/tm-9studio/woocommerce/single-product/sale-flash.php:27
+msgid "Out of stock"
+msgstr ""
+
+#: src/tm-9studio/woocommerce/loop/sale-flash.php:31, src/tm-9studio/woocommerce/single-product/sale-flash.php:32
+msgid "Hot"
+msgstr ""
+
+#: src/tm-9studio/woocommerce/loop/sale-flash.php:35, src/tm-9studio/woocommerce/single-product/sale-flash.php:36
+msgid "Sale"
+msgstr ""
+
+#: src/tm-9studio/woocommerce/loop/sale-flash.php:42, src/tm-9studio/woocommerce/single-product/sale-flash.php:43
+msgid "New"
+msgstr ""
+
+#: src/tm-9studio/woocommerce/single-product/meta.php:32
+msgid "SKU"
+msgstr ""
+
+#: src/tm-9studio/woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr ""
+
+#: src/tm-9studio/woocommerce/single-product/meta.php:37
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/tm-9studio/woocommerce/single-product/meta.php:39
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""

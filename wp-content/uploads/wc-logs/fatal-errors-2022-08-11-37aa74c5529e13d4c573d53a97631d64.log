@@ -1,0 +1,450 @@
+2022-08-11T00:34:42+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T01:56:36+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T02:22:58+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T04:40:24+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T09:15:54+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T10:15:36+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T10:15:36+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T10:23:12+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T10:23:13+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T10:31:59+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T11:00:05+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T11:07:16+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T11:39:21+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T11:39:22+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T11:53:04+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T11:53:05+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T12:44:48+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T14:08:53+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T14:12:05+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T14:12:54+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T17:08:12+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T17:45:45+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:13:14+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:13:44+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:22:19+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:22:21+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:24:28+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:44:05+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:47:43+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T21:52:24+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:03:08+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:12:48+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:32:00+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:32:06+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:34:33+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:34:36+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:39:03+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:42:32+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:42:37+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:56:34+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:58:04+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T22:58:17+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:01:33+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:03:34+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:05:34+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:05:39+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:18:00+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:49:16+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:49:18+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+
+2022-08-11T23:50:26+00:00 CRITICAL Uncaught Error: Class 'Automattic\Jetpack\Search\REST_Controller' not found in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php:30
+Stack trace:
+#0 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(32): WPCOM_REST_API_V2_Endpoint_Search->__construct()
+#1 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php(51): wpcom_rest_api_v2_load_plugin('WPCOM_REST_API_...')
+#2 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(19): require_once('/home/sneeze7/p...')
+#3 /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/load-wpcom-endpoints.php(42): wpcom_rest_api_v2_load_plugin_files('wpcom-endpoints...')
+#4 /home/sneeze7/public_html/wp-includes/class-wp-hook.php(307): load_wpcom_rest_api_v2_plugin_files('')
+#5 /home/sneeze7/public_html/wp-includes/class-w in /home/sneeze7/public_html/wp-content/plugins/jetpack/_inc/lib/core-api/wpcom-endpoints/class-wpcom-rest-api-v2-endpoint-search.php on line 30
+

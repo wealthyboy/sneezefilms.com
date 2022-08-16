@@ -1,0 +1,17 @@
+.insight-video-button {
+    display: block;
+    text-align: center;
+
+    a {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        background-image: url('assets/images/play.png');
+        background-repeat: no-repeat;
+        background-position: center;
+
+        &:hover {
+            opacity: .7;
+        }
+    }
+}
